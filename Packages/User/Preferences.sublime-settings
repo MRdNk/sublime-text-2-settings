@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"draw_indent_guides": true,
+	"draw_white_space": "selection",
+	"font_face" : "Monaco",
+	"font_size": 12,
+	"font_options":
+		[
+			"subpixel_antialias"
+		],
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"BracketHighlighter"
+	],
+	"theme": "Soda Dark.sublime-theme"
+}

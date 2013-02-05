@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Djaneiro",
+		"Git",
+		"HTML5",
+		"jQuery",
+		"Markdown Preview",
+		"oleander-sublime-split-navigation-e54e8a2",
+		"Package Control",
+		"Python Imports Sorter",
+		"SetDjangoSyntax",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda"
+	]
+}
