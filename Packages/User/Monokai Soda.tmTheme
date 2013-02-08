@@ -10,7 +10,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#222222</string>
+                <string>#000000</string>
                 <key>caret</key>
                 <string>#F8F8F0</string>
                 <key>foreground</key>
@@ -18,7 +18,7 @@
                 <key>invisibles</key>
                 <string>#3B3A32</string>
                 <key>lineHighlight</key>
-                <string>#333333</string>
+                <string>#111111</string>
                 <key>selection</key>
                 <string>#444444</string>
                 <key>findHighlight</key>
@@ -368,6 +368,50 @@
             <dict>
                 <key>foreground</key>
                 <string>#E6DB74</string>
+            </dict>
+        </dict>
+         <dict>
+            <key>name</key>
+            <string>Django HTML tag string</string>
+            <key>scope</key>
+            <string>entity.tag.tagbraces.django</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ffffff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Django HTML templatetag</string>
+            <key>scope</key>
+            <string>string.unquoted.tag-string.django</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A6E22E</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>SASS property</string>
+            <key>scope</key>
+            <string>support.type.property-name.sass, support.type.property-name.css</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ffffff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>SASS unit</string>
+            <key>scope</key>
+            <string>constant.other.unit.sass</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F92672</string>
             </dict>
         </dict>
     </array>

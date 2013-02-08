@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"CSS Color Converter",
 		"Djaneiro",
 		"Git",
 		"HTML5",
@@ -11,6 +12,7 @@
 		"oleander-sublime-split-navigation-e54e8a2",
 		"Package Control",
 		"Python Imports Sorter",
+		"Sass",
 		"SetDjangoSyntax",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
