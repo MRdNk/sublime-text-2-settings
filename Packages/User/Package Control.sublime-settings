@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Alignment",
 		"BracketHighlighter",
 		"CSS Color Converter",
 		"Djaneiro",
@@ -11,12 +12,14 @@
 		"Markdown Preview",
 		"oleander-sublime-split-navigation-e54e8a2",
 		"Package Control",
+		"Python Auto-Complete",
 		"Python Imports Sorter",
 		"Sass",
 		"SetDjangoSyntax",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeRope",
 		"Tag",
 		"Theme - Soda"
 	]

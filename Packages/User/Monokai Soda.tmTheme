@@ -14,7 +14,7 @@
                 <key>caret</key>
                 <string>#F8F8F0</string>
                 <key>foreground</key>
-                <string>#F8F8F2</string>
+                <string>#ffffff75</string>
                 <key>invisibles</key>
                 <string>#3B3A32</string>
                 <key>lineHighlight</key>
@@ -390,6 +390,17 @@
             <dict>
                 <key>foreground</key>
                 <string>#A6E22E</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Django field type</string>
+            <key>scope</key>
+            <string>support.type.django.model</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ffffff</string>
             </dict>
         </dict>
         <dict>

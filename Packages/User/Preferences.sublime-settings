@@ -1,5 +1,14 @@
 {
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python - string - comment - constant.numeroc"
+		}
+	],
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"detect_indentation": true,
+	"detect_slow_plugins": false,
 	"draw_indent_guides": true,
 	"draw_white_space": "selection",
 	"font_face": "Monaco",
@@ -12,7 +21,18 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"BracketHighlighter"
+		"BracketHighlighter",
+		"SublimeCodeIntel"
 	],
-	"theme": "Soda Dark.sublime-theme"
+	"indent_to_bracket": true,
+	"rulers":
+	[
+		80,
+		100
+	],
+	"smart_indent": true,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
 }
