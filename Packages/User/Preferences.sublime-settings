@@ -10,7 +10,7 @@
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"draw_indent_guides": true,
-	"draw_white_space": "selection",
+	"draw_white_space": "all",
 	"font_face": "Monaco",
 	"font_options":
 	[
