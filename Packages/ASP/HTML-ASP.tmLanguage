@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>asp</string>
+		<string>aspx</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>(&lt;(?i:(head|table|div|style|script|ul|ol|form|dl))\b.*?&gt;|\{)</string>
